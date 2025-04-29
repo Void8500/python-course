@@ -2,7 +2,7 @@
 print("Hello! My name is Qais")
 
 # My Age
-print("I am 12 years old")
+print("I am 12 years old haha")
 
 # Fun Fact
 print("Did you know russia is the biggest country in the world?")
@@ -11,3 +11,5 @@ print("Did you know russia is the biggest country in the world?")
 print(" one of my favorite hobbies is swimming")
 
 print('hello qais hi ')
+
+print("Third commit")
