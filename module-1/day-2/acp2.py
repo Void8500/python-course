@@ -1,5 +1,5 @@
 # Start text
-print("Storing birthdays")
+print("Storing birthdays: Raj's friends")
 
 # Bday variables
 bday1 = input("input 1st birthday ")
