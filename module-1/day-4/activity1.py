@@ -10,3 +10,6 @@ print(f'Physics Percentage: {(physics/subjMark*100):.2f} %')
 print(f'Chemistry Percentage: {(chemistry/subjMark*100):.2f} %')
 print(f'Maths Percentage: {(math/subjMark*100):.2f} %')
 print(f'Biology Percentage: {(biology/subjMark*100):.2f} %')
+
+average = (math + chemistry + physics + biology) / 4
+print("Average: ", average)
