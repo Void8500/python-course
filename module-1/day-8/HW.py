@@ -1,0 +1,1 @@
+# HW: take 3 inputs from the user and find the maximum number and minimum number
