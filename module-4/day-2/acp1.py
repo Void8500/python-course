@@ -13,3 +13,4 @@ for num in numbers:
     product *= num
 
 print("Product of all numbers:", product)
+print(tuple(numbers))
