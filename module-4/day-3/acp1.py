@@ -1,4 +1,4 @@
-test_dict = {'Codingal': 3, 'is': 2, 'best': 2, 'for': 2, 'Coding': 1}
+test_dict = {'Codingal': 3, 'is': 2, 'best': 4, 'for': 2, 'Coding': 1}
 
 K = int(input("Enter the value to check frequency: "))
 
