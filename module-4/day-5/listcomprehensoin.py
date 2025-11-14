@@ -1,7 +1,8 @@
-list1 = [2, 4, 8]
-list2 = [3, 7, 9]
+n = int(input("Enter a number: "))
+odds1 = [i for i in range(n) if i%2]
+odds2 = [i for i in range(n) if i%2]
+print(odds1, odds2)
 
-squares1 = [i**2 for i in list1]
-squares2 = [j**2 for j in list2]
-
-print(squares1, squares2)
+fruits = ["apple","banana","mango","grape"]
+updated = [f.capitalize() for f in fruits]
+print(updated)
