@@ -21,3 +21,4 @@ str1.print_String()
 
 str2 = str1.str1.lower()
 print(f"Result is: {str2}")
+set
